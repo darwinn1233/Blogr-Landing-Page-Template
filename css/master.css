@@ -247,11 +247,6 @@ body {
         cursor: pointer;
     }
 }
-
-
-
-/* ====== Trying ====== */
-
 .header .container .toggle-menu {
     position: relative;
 }
@@ -296,13 +291,6 @@ body {
     color: #68A4C4;
     padding-left: 10px;
 }
-
-/* ====== Trying ====== */
-
-
-
-
-
 /* ========== End Header ========== */
 /* ========== Start Landing ========== */
 .landing {
